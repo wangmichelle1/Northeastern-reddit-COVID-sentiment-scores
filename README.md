@@ -1,1 +1,1 @@
-# Northeastern-reddit-COVID-sentiment-scores
+The project looks at how the Northeastern subreddit population feels about COVID-19. Sentiment scores of the students' comments in response to the school's COVID announcements are analyzed and assigned a positive, negative, or neutral sentiment score based on the predefined list of positive, negative, and neutral words. 
